@@ -10,18 +10,13 @@ window.WORKS_DATA = [
     "type": "game"
   },
   {
-    "title": "SPY×FAMILY",
-    "reading": "",
-    "type": "media"
-  },
-  {
     "title": "葬送のフリーレン",
     "reading": "そうそうのふりーれん",
     "type": "media"
   },
   {
-    "title": "コンビニ人間",
-    "reading": "こんびににんげん",
-    "type": "book"
+    "title": "FINAL FANTASY Ⅸ",
+    "reading": "",
+    "type": "game"
   }
 ];
