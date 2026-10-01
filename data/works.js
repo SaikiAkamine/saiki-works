@@ -18,5 +18,20 @@ window.WORKS_DATA = [
     "title": "FINAL FANTASY Ⅸ",
     "reading": "",
     "type": "game"
+  },
+  {
+    "title": "アクアリウムは踊らない",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "Stardew Valley",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "Undertale",
+    "reading": "",
+    "type": "game"
   }
 ];
