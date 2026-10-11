@@ -235,11 +235,6 @@ window.WORKS_DATA = [
     "type": "media"
   },
   {
-    "title": "犬夜叉",
-    "reading": "",
-    "type": "media"
-  },
-  {
     "title": "女王の花",
     "reading": "じょうおう",
     "type": "media"
@@ -262,6 +257,21 @@ window.WORKS_DATA = [
   {
     "title": "累",
     "reading": "かさね",
+    "type": "media"
+  },
+  {
+    "title": "犬夜叉",
+    "reading": "いぬ",
+    "type": "game"
+  },
+  {
+    "title": "07-GHOST",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "Pandorahearts",
+    "reading": "",
     "type": "media"
   }
 ];
