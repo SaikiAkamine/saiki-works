@@ -248,5 +248,20 @@ window.WORKS_DATA = [
     "title": "銀の匙",
     "reading": "ぎんのさじ",
     "type": "media"
+  },
+  {
+    "title": "悪役令嬢の矜持",
+    "reading": "あくやく",
+    "type": "media"
+  },
+  {
+    "title": "pupa",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "累",
+    "reading": "かさね",
+    "type": "media"
   }
 ];
