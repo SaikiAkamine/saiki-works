@@ -73,5 +73,60 @@ window.WORKS_DATA = [
     "title": "FINAL FANTASY Ⅹ-2",
     "reading": "",
     "type": "game"
+  },
+  {
+    "title": "APEX",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "VALORANT",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "FINAL FANTASY零式",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "FINAL FANTASY VII CRISIS CORE",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "R.E.P.O",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "Overwatch",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "RV There Yet",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "モンスターハンター：ワールド",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "PEAK",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "Among Us",
+    "reading": "",
+    "type": "game"
+  },
+  {
+    "title": "UNDERWARD",
+    "reading": "",
+    "type": "game"
   }
 ];
