@@ -128,5 +128,125 @@ window.WORKS_DATA = [
     "title": "UNDERWARD",
     "reading": "",
     "type": "game"
+  },
+  {
+    "title": "進撃の巨人",
+    "reading": "しんげき",
+    "type": "media"
+  },
+  {
+    "title": "薬屋のひとりごと",
+    "reading": "くすり",
+    "type": "media"
+  },
+  {
+    "title": "アルテ",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "アリスの聖杯",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "3月のライオン",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "かげきしょうじょ！！",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "の、ような",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "夢の雫、黄金の鳥籠",
+    "reading": "ゆめ",
+    "type": "media"
+  },
+  {
+    "title": "二月の勝者",
+    "reading": "にがつ",
+    "type": "media"
+  },
+  {
+    "title": "金色のガッシュベル",
+    "reading": "こんじき",
+    "type": "media"
+  },
+  {
+    "title": "ボールルームへようこそ",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "ランウェイで笑って",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "だから私はメイクする",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "私の少年",
+    "reading": "わたし",
+    "type": "media"
+  },
+  {
+    "title": "鬼滅の刃",
+    "reading": "きめつ",
+    "type": "media"
+  },
+  {
+    "title": "ハイキュー！！",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "コウノトリ",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "約束のネバーランド",
+    "reading": "やくそく",
+    "type": "media"
+  },
+  {
+    "title": "食戟のソーマ",
+    "reading": "しょくげき",
+    "type": "media"
+  },
+  {
+    "title": "七つの大罪",
+    "reading": "ななつ",
+    "type": "media"
+  },
+  {
+    "title": "テセウスの船",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "犬夜叉",
+    "reading": "",
+    "type": "media"
+  },
+  {
+    "title": "女王の花",
+    "reading": "じょうおう",
+    "type": "media"
+  },
+  {
+    "title": "銀の匙",
+    "reading": "ぎんのさじ",
+    "type": "media"
   }
 ];
